@@ -2,7 +2,7 @@
 layout: default
 title: ""
 ---
-<p align="center"><img width="200" src="https://www.google.com/imgres?q=sap&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F59%2FSAP_2011_logo.svg%2F1200px-SAP_2011_logo.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSAP&docid=403En1J1CPN8VM&tbnid=5OjvWLU-HqyhIM&vet=12ahUKEwixtIDt_aiLAxXUklYBHRu6OS0QM3oECBcQAA..i&w=1200&h=594&hcb=2&ved=2ahUKEwixtIDt_aiLAxXUklYBHRu6OS0QM3oECBcQAA" alt="sap">
+<p align="center"><img width="200" src="https://www.google.com/imgres?q=sap&imgurl=https%3A%2F%2Fwww.cxtoday.com%2Fwp-content%2Fuploads%2F2023%2F12%2Fsap-cloud-only-approach.jpg&imgrefurl=https%3A%2F%2Fwww.cxtoday.com%2Fcustomer-data-platform%2Fmore-backlash-to-saps-cloud-only-innovation-approach%2F&docid=nveaUfJjBibx4M&tbnid=0pUO0iOMgdZ_HM&vet=12ahUKEwiq_Kn5gKmLAxU7qVYBHbZMBVUQM3oECFgQAA..i&w=850&h=425&hcb=2&ved=2ahUKEwiq_Kn5gKmLAxU7qVYBHbZMBVUQM3oECFgQAA" alt="sap">
 <p align="center">SAP (Systems, Applications, and Products in Data Processing) is a leading provider of enterprise software, founded in 1972 in Germany. 
 It is best known for its Enterprise Resource Planning (ERP) solutions, which help businesses manage and streamline their operations across various departments, including finance, supply chain, manufacturing, human resources, and customer relationship management. 
 SAP’s integrated approach enables companies to optimize processes, improve efficiency, and make data-driven decisions in real-time.</p>
