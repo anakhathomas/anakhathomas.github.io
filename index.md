@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: ""
 ---
 SAP (Systems, Applications, and Products in Data Processing) is a leading provider of enterprise software, founded in 1972 in Germany. 
 It is best known for its Enterprise Resource Planning (ERP) solutions, which help businesses manage and streamline their operations across various departments, including finance, supply chain, manufacturing, human resources, and customer relationship management. 
