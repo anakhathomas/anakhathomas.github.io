@@ -2,7 +2,7 @@
 layout: default
 title: ""
 ---
-<p align="center"><img width="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.pinterest.com%2Fpin%2Ffree-download-sap-logo--812336851556663310%2F&psig=AOvVaw3j-G2TcdZCutKqGmXAF29i&ust=1738724027590000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj39POBqYsDFQAAAAAdAAAAABAE" alt="sap">
+<p align="center"><img width="200" src="https://github.com/anakhathomas/anakhathomas.github.io/blob/master/images/sap.jpg" alt="sap">
 <p align="center">SAP (Systems, Applications, and Products in Data Processing) is a leading provider of enterprise software, founded in 1972 in Germany. 
 It is best known for its Enterprise Resource Planning (ERP) solutions, which help businesses manage and streamline their operations across various departments, including finance, supply chain, manufacturing, human resources, and customer relationship management. 
 SAP’s integrated approach enables companies to optimize processes, improve efficiency, and make data-driven decisions in real-time.</p>
